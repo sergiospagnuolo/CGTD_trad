@@ -10,7 +10,7 @@
 	
 * **Prazo tentativo**: 	28/02/2018    
 
-* **Processo**: capítulos em português deverão ser colocados no branch *port*
+* **Processo**: capítulos em português deverão ser colocados no branch *Traducao*
 
 * **Sugestão para iniciantes em Markdown**: [Dillinger](https://dillinger.io/)
 
