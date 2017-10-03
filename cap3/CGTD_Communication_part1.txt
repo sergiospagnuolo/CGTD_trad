@@ -1,0 +1,11 @@
+## Communication
+
+*The mark of a civilized human is the ability to look at a column of numbers, and weep.* -- attributed to Bertrand Russell[24](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#footnotes)
+
+Quantification produces data and analysis brings meaning to it. But it doesn't count as journalism unless you can communicate what you've learned. This need shapes the story all the way through, including quantification and analysis.
+
+In journalism we usually need to assume that the audience has little familiarity with either the subject of the story or quantitative concepts in general, which makes this particularly difficult. And after reading, the reader[25](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#footnotes) must eventually do something with the information, or our journalism has no effect. This ties journalism to prediction.
+
+Most people are not used to interpreting data, and it's hard to blame them. Data visualization can be helpful because it transfers some of the cognitive work of understanding data to the enormously powerful human visual system. Still, the foundational concepts of data work are subtle and at times unnatural. The nuances of sampling, probabilities, causality, and so on are foreign to everyday experience. More than that, numbers are not a particularly empathetic medium. For most people even the most screaming statistic is disconnected from everyday experience. Journalists can overcome this using examples, metaphors, or stories to relate the numbers to people. Journalism is a deeply human task, no matter the methods.
+
+Ultimately, a journalist is responsible for the ideas that end up in their reader's head. There are two parts to this: ensuring that the data and the story clearly and accurately represents the reality, and ensuring that this accurate representation is what the reader actually comes away with.

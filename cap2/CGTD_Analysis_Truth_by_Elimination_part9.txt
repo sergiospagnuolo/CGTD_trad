@@ -1,0 +1,59 @@
+**Truth by Elimination**
+
+In 2011 the Associated Press revealed that the New York Police Department had been closely monitoring 53 New York City mosques with methods including informants and video surveillance.[52](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations) In 2012, the NYPD released a massive database of hundreds of thousands of stop-and-frisk incidents, where cops stopped people on the street, without cause, to check for weapons and drugs. A journalist analyzed this data and found that there was a 15 percent above average number of stop-and-frisks within 100 meters of certain New York City mosques.[22](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#footnotes)
+
+![](https://cjrarchive.org/img/posts/dj35.png)
+
+A small portion of the NYPD's stop-and-frisk data.
+
+This might mean that the NYPD is deliberately targeting Muslims on the street. But there are many other ways this data could have come to be. Let's list some possibilities:
+
+-   Police are deliberately stopping Muslims near mosques.
+-   It's sheer chance.
+-   Mosques could be in more heavily populated areas.
+-   Patrol times might coincide with prayer times, for whatever reason.
+-   There might be more police assigned to the area due to higher crime rates.
+-   The data might be in error.
+-   You could misunderstand how the data is collected.
+
+This is the central problem of data analysis: The data alone cannot tell us that a story is true, because there could be many other stories that produce the same data. In principle all scientific analysis is a two-step process: Invent a number of hypotheses, then pick the one which is best supported by evidence. In journalism work, a narrative extracted from the data---"the story"---is morally equivalent to a hypothesis.
+
+Actually, neither scientists nor journalists really work like this. Many people have pointed out that the interplay between inventing and testing ideas is much more complex than this little sketch.[53](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations) In real work you go back and forth, refining ideas, gathering more information, finally getting your interview with a crucial source, testing theories, catching up on other people's work, stumbling into flashes of creativity, drinking a lot of coffee, arguing with critics, going back to the drawing board, changing your mind, grinding forward. We should not consider this idea of creating and then testing hypotheses to be a literal description of our truth-finding process. Instead it describes a type of argument. It captures the core logic of why we should believe something is true, not necessarily the steps that actually led us to believe it.
+
+Coming up with reasonable stories/hypotheses is a creative process that has to draw on specific background knowledge. Peirce called this hypothesis-generation process abduction and noticed that it followed certain rules: Your stories must explain the data, and they must not contradict known facts. Other than that, the possibilities are wide open. But there are a number of things that need to be checked in almost any story. Your list of hypotheses should include definitional problems, quantification troubles, errors in the data, random chance, and as many confounding variables as you can think of. The basic rule is this: you have to imagine it before you can prove that it's true.
+
+Is NYPD targeting of Muslims producing our data? The truth may be any of the possibilities above, some combination, or something that's not even on the list.
+
+If you have well-quantified variables and good models, there are statistical solutions to the problem of choosing between competing hypotheses. Much of the statistical work of the last hundred years has been devoted to just this sort of hypothesis testing, as we saw in the section on inference. These are powerful tools, but most problems in journalism do not have neatly quantified evidence. I don't know how to express all of the above stop-and-frisk hypotheses in the same symbolic language, nor how to make reasonable probability estimates for each possibility. What's the chance you've misunderstood the data format? In practice the solution is to double-check the format, rather then trying to compute a probability of error.
+
+There are exceptions, highly structured cases where the full power of statistical hypothesis testing can be applied, such as election predictions. Even then, be wary: Have you included all the different ways the election could be rigged? The world will always find ways to surprise a model.
+
+Ultimately there is no language more powerful than human language, and no reasoning more powerful than general human reasoning. That doesn't mean looking at the data and intuiting the answer. There are many methods between intuition and statistics.
+
+Good data analysis is more about ruling out many false interpretations, rather than trying to prove a single interpretation is correct. This may seem disappointing---can there be no certainty?---yet this idea is one of the great innovations in philosophy of science. It was best articulated by Karl Popper in the 1930s. His central idea was that *falsification* is a much more robust practice than *verification*.
+
+There are many reasons why proving a story wrong is a better goal than proving a story right. If you only ever look for evidence that confirms your story, you may only ever find the evidence that confirms your story. Disconfirmation is also more powerful than confirmation in the sense that additional confirming evidence doesn't really make a confirmed story more true, but once a story is contradicted by a single solid fact no amount of further evidence can rescue it. And we know, starting with a series of landmark cognitive psychology experiments in the 1970s, that there are biases in human cognition that lead us to reject, discredit, and selectively forget information that doesn't fit with what we already believe.[54](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)
+
+It's useful to inquire against your hopes. Your critics certainly will.
+
+Also, falsification is a way of clarifying the practical content of a hypothesis. Is there some way, at least in principle, that your hypothesis could be proved wrong? If a hypothesis says anything about the world, it should be possible to go check if the world really is that way. I don't mean anything cosmic by this. "The police shift change happens during evening prayers" is a perfectly good hypothesis that could be tested by, say, getting a copy of the precinct schedule.
+
+![](https://cjrarchive.org/img/posts/dj36.png)
+
+Carl Sagan throws down.[23](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#footnotes)
+
+The idea of generating competing hypotheses and then disproving them appears in many forms, in many places. Aristotle wrote about the idea of different possible causes for the same event. Peirce certainly understood the principle in 1868 when he used his signature model to rule out chance as an explanation. Sir Arthur Conan Doyle had Sherlock Holmes talk about finding truth by testing alternatives in 1926, in the quote that opens this chapter. A 1980s CIA textbook on intelligence analysis contains a particularly readable description of a practical method, neatly tied to the theory of cognitive biases.[55](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)
+
+In short, the method is this: At the beginning of the data analysis work, dream up all sorts of possible interpretations, all sorts of possible stories. The available data will rule some of them out, either obviously so or through statistical testing. The stories which survive that test are the ones you have to choose between. To do that, you will need more information. The remaining set of hypotheses will tell you which information you need to rule each of them out, whether that's another data set or a conversation with a knowledgeable source.
+
+Each of the stop-and-frisk hypotheses suggests a different investigative technique. We can examine the effects of chance statistically, perhaps by counting the number of stops within 100-meter radius circles placed randomly throughout the data, not centered on mosques at all. But pretty much every other hypothesis has to be tested against information that isn't in the stop-and-frisk data. We might want to add other data to the analysis; for example, we could correlate mosque locations with population density. Or we might need to have a conversation with a cop who can explain how police patrols are assigned. The goal here isn't to prove any particular hypotheses but to test each of them by finding evidence against them.
+
+We're looking for information which falsifies one of our hypotheses. Reality may not be so cooperative. The next best thing is information which prefers one hypothesis to another: not falsifying evidence but differential evidence. We might also find that a combination of hypotheses fits best: The NYPD might be intentionally stopping Muslims on the street *and* mosques might be in more densely populated areas. That itself is a new hypothesis.
+
+The method of competing hypotheses need not involve data at all. You can apply the idea of ruling out hypotheses to any type of reporting work, using any combination of data and non-data sources. The concept of *triangulation* in the social sciences captures the idea that a true hypothesis should be supported by many different kinds of evidence, including qualitative evidence and theoretical arguments. That too is a classic idea. Here's Peirce again:
+
+> Philosophy ought to imitate the successful sciences in its methods, so far as to proceed only from tangible premises which can be subjected to careful scrutiny, and to trust rather to the multitude and variety of its arguments than to the conclusiveness of any one. Its reasoning should not form a chain which is no stronger than its weakest link, but a cable whose fibers may be ever so slender, provided they are sufficiently numerous and intimately connected.[56](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)
+
+What you see in the data cannot contradict what you see in the street, so you always need to look in the street. The conclusions from your data work should be supported by non-data work, just as you would not want to rely on a single source in any journalism work.
+
+The story you run is the story that survives your best attempts to discredit it.

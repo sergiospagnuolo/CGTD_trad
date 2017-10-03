@@ -1,0 +1,79 @@
+**Prediction**
+
+Prediction is important because action is important. What use is journalism that doesn't help you decide what to do? This requires knowledge of futures and consequences. Prediction also has close links to truth. Falsification is one of the strongest truth-finding methods, and it's prediction that allows us to compare our ideas with the world to see if they hold up. Prediction is at the core of hypothesis testing, and therefore at the core of science.
+
+Journalists think about the future constantly, and sometimes publish their predictions: A particular candidate will win the election; the president will veto the bill if it's not revised; this war will last at least five years. It may be even more common to let sources make predictions: The analyst says that housing prices will continue to increase; a new study says this many people will be forced to move as the seas rise. Leaning on experts doesn't excuse the journalist from disseminating bad predictions unchallenged, and it turns out that experts quite often make bad predictions.
+
+The landmark work here is Philip Tetlock's *Expert Political Judgment*.[77](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)Starting in 1984, Tetlock and his colleagues solicited 82,361 predictions from 285 people whose profession included "commenting or offering advice on political and economic trends." He asked very concrete questions that could be scored yes or no, questions like: "Will Gorbachev be ousted in a coup?" or "Will Quebec secede from Canada?"
+
+The experts' accuracy, over 20 years of predictions and across many different topics, was consistently no better than guessing. As Tetlock put it, a "dart-throwing chimp" would do just as well. Our political, financial, and economic experts are, almost always, *just making it up* when it comes to the future.
+
+I suspect this is disappointing to a lot of people. Perhaps you find yourself immediately looking for explanations or rationalizations. Maybe Tetlock didn't ask the true experts, or the questions were too hard. Unfortunately the methodology seems solid, and there's certainly a lot of data to support it. The conclusion seems inescapable: We are all terrible at predicting our social and political future, and no amount of education or experience helps.
+
+What does help is keeping track of your predictions. This is perhaps Tetlock's greatest contribution.
+
+> Although there is nothing odd about experts playing prominent roles in debates, it is odd to keep score, to track expert performance against explicit benchmarks of accuracy and rigor.[78](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)
+
+The simplest way to do this is just to write down each prediction you make and, when the time comes, tally it as right or wrong. At the very least this will force you to be clear. Like a bet, the terms must be unambiguous from the outset.
+
+A more sophisticated analysis takes into account both what you predict and how certain you think the outcome is. Out of all the predictions that you said were 70 percent certain, about 70 percent should come to pass. If you track both your predictions and your confidence, you can eventually produce a chart comparing your confidence to the reality. As Tetlock put it, "Observers are perfectly calibrated when there is precise correspondence between subjective and objective probabilities."
+
+![](https://cjrarchive.org/img/posts/dj52.png)
+
+From Tetlock.[79](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)
+
+Subjective probability is how confident someone said they were in their prediction, while the objective frequency is how often the predictions at that confidence level actually came true. In this data, when the experts gave something a 60 percent chance of occurring, their predictions came to pass 40 percent of the time. Overall, this chart shows the same general pattern found in other studies of probability perception: Rare events are perceived as much too likely, while common events are thought to be unduly rare. It also shows that expert knowledge helps, but only to a point. "Dilettantes" with only a casual interest in the topic did just as well as experts, and students who were given only three paragraphs of information were only slightly worse.
+
+The overall lesson here is not that people are stupid, but that predicting the future is very hard and we tend to be overconfident. Another key line of research shows that statistical models are one of the best ways to improve our predictions.
+
+In 1954 a clinical psychologist named Paul Meehl published a slim book titled *Clinical Versus Statistical Prediction*.[80](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations) His topic was the prediction of human behavior: questions such as "what grades will this student get?" or "will this employee quit?" or "how long will this patient be in the hospital?" These sorts of questions have great practical significance; it is on the basis of such predictions that criminals are released on parole and scholarships are awarded to promising students.
+
+Meehl pointed out that there were only two ways of combining information to make a prediction: human judgment or statistical models. Of course, it takes judgment to build a statistical model, and you can also turn human judgment into a number by asking questions such as "on a scale of 1--5, how seriously does this person take their homework?" But there must be some final method by which all available information is synthesized into a prediction, and that will either be done by a human or a mechanical process.
+
+It turns out that simple statistical methods are almost always better than humans at combining information to predict behavior.
+
+Sixty years ago, Meehl examined 19 studies comparing clinical and statistical prediction, and only one favored the trained psychologist over simple actuarial calculations.[81](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations) This is even more impressive when you consider that the humans had access to all sorts of information not available to the statistical models, including in-depth interviews. Since then the evidence has only mounted in favor of statistics. More recently, a review of 136 studies comparing the two methods showed that statistical prediction was as good or better then clinical prediction about 90 percent of the time, and quite a lot better about 40 percent of the time. This holds across many different types of predictions including medicine, business, and criminal justice.[82](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)
+
+This doesn't mean that statistical models do particularly well, just better than humans. Some things are very hard to predict, maybe most things, and simply guessing based on the overall odds can be as good (or as bad) as a thorough analysis of the current case. But to do this you have to know the odds, and humans aren't particularly good at intuitively collecting and using frequency information.
+
+In fact the statistical models in question are usually simple formulas, nothing more than multiplying each input variable by some weight indicating its importance, then adding all variables together. In one study, college grades were predicted by just such a weighted sum of the student's high school grade percentile and their SAT score. The weights were computed by regression from the last few years of data, which makes this a straightforward extrapolation from the past to the future. Yet this formula did as well as professional evaluators who had access to all the admission materials and conducted personal interviews with each student. The two prediction methods failed in different ways, and those differences could matter, but they had similarly mediocre average performance.
+
+The idea that simplistic mechanical predictors match or beat expert human judgment has offended many people, and it's still not taken as seriously as perhaps it should be. But why should this be offensive? Meehl explained the result this way:
+
+> Surely we all know that the human brain is poor at weighting and computing. When you check out at a supermarket, you don't eyeball the heap of purchases and say to the clerk, "Well it looks to me as if it's about $17.00 worth; what do you think?" The clerk adds it up.[83](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)
+
+Of course the statistical models used for prediction don't choose themselves. Someone has to imagine what factors might be relevant, and there is a great deal of expertise and work that goes into designing and calibrating a statistical model. Also, a model can always be surprised. An election prediction model will break down in the face of fraud, and an academic achievement model can't know what a death in the student's family will mean. Moreover, there can always be new insights into the workings of things that lead to better models. But generally, a validated model is more accurate than human guesses, even when the human has access to lot of additional data.
+
+I think there are three lessons for journalism in all of this. First, prediction is really hard, and almost everyone who does it is doing no better than chance. Second, it pays to use the best available method of combining information, and that method is often simple statistical prediction. Third, if you really do care about making correct predictions, the very best thing you can do is track your accuracy.
+
+Yet most journalists think little about accountability for their predictions, or the predictions they repeat. How many pundits throw out statements about what Congress will or won't do? How many financial reporters repeat analysts' guesses without ever checking which analysts are most often right? The future is very hard to know, but standards of journalistic accuracy apply to descriptions of the future at last as much as they apply to descriptions of the present, if not more so. In the case of predictions it's especially important to be clear about uncertainty, about the limitations of what can be known.
+
+I believe that journalism should help people to act, and that requires taking prediction seriously.
+
+Going Further
+
+You are probably no closer to finishing your next data project after reading this book.
+
+I am painfully aware that the theory in this book is somewhat removed from the daily work of data journalism. You're going to need practical skills like working with spreadsheets, cleaning data, coding up visualizations, and asking civil servants for explanations. I've covered none of this craft.
+
+Yet all of this work is guided by old and deep principles. Journalists are latecomers to quantitative thinking. That's unfortunate, because numbers can bring us closer to the truth. But only sometimes. Hopefully you now have a better sense of the limitations of data, and the ways we analyze and communicate data.
+
+There's a lot more to learn.
+
+There are an endless number of technical concepts relevant to data work. I've tried to give an authentic taste of the state of the art, and Bayesian statistics and cognitive biases are at the forefront of contemporary practice across many fields. Still, these presentations do not have the depth and detail needed to do real work; no one is going to learn to do statistical analysis from what I've written. Not exactly.
+
+The good news is you don't have to learn everything at once. An education in statistics will give you powerful fundamentals that can be used to reason about subtle problems, but you won't need to do that every day. Also, that's what collaborators and mentors are for. A journalist's primary responsibility is to the story, and technical mastery comes from the experience of many solved problems.
+
+it's not knowing everything that makes a technical professional, it's being willing to find out. I've used standard mathematical language in an effort to help you find more information; with a search engine, knowing the true name of something gives you the ability to summon it at will. So don't be surprised when you don't know something. If you're anything like me you'll get the code wrong the first time, even when you do know what you're doing. But never doubt that there is a logic underlying every equation and every line of code. These things are not magic; though the symbolic languages of data can be intimidating, there is nothing occult here.
+
+My advice is to look always for the underlying sense of the thing, the plain-language explanation. This sense can be hard to find. When you ask a question like "why does a survey have a bell-shaped error distribution?" you will soon find yourself lost in inscrutable proofs, answers that seem to presuppose you already know, explanations that don't really explain. This is an unfortunate comment on the sate of our educational materials, but don't lose hope! Keep searching until you find an answer that makes sense.
+
+Yet a technician is not a journalist. What will you be able to do with all of this understanding and ability?
+
+Like any medium, it can take a while to find your voice in data journalism. Sure, you can do analysis and visualization and all the rest of it---but what are you saying? What questions are you asking? What is it that is so important, so urgent, that you must command a stranger's time to tell it to them?
+
+I don't know of any way to discover what you want to say other than saying it. Just write. And report and code and visualize, but whatever else you do, put your work into the world. Then do the next one. As Steve Jobs said, real artists ship.
+
+If you continue your study of the deep workings of data, you will discover entire worlds. You will retrace thousands of years of inspired ideas, re-experiencing each little epiphany as your own. You will gradually arrive at one of the most exciting frontiers of human thought, and you will join professionals in many other fields who are transforming their work through data. Quantitative ideas now pervade every aspect of the functioning of society, from health to finance to politics. it's impossible to understand the modern world without understanding data.
+
+And if you do understand data, you will begin to see stories that others literally cannot imagine. We need those stories told. That is, perhaps, the best possible argument for learning more.

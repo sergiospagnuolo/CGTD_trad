@@ -1,0 +1,15 @@
+**Accounting for Chance**
+
+it's very tempting to interpret something as meaningful when it could just as easily be a coincidence---especially if it makes a good story. But dumb luck is always in the running as an explanation for your data. To try to untangle chance from other factors, we can estimate the probability of sheer coincidence.
+
+Our nighttime assaults data shows generous variation. Before the change in closing hours the number of assaults ranged from 60-ish to 130-ish. We say this variation is random, meaning that we can't ever hope to know the circumstances that cause a particular fight on a particular night, and it is precisely this randomness that complicates our analysis.[12](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#footnotes) The less data you have, the more chance is a factor and the easier it is to be fooled. Suppose we only had two quarters of data after the change:
+
+![](https://cjrarchive.org/img/posts/dj14.png)
+
+Number of nighttime assaults, with only two data points after closing time was restricted to 3 a.m. Adapted from Kypri et al.[25](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)
+
+If you looked at just this data, you might conclude that the new closing time had no effect. The new points are pretty much in line with the data from the previous four quarters. If anything, it looks like there was a downward shift in the number of assaults a year before the policy ever went into effect! But having seen the additional data, we know that the two points here are at the high end of a new lower range. it's just chance that makes this truncated data look like nothing happened.
+
+If we can be fooled by two chance data points, can we be fooled by six? Certainly, but less probably. How much less?
+
+It takes a while to build up an intuition about the effects of chance. From working with data and models, you eventually get a sense of what randomness looks like, and therefore what it doesn't look like and how much data you need to feel sure about your conclusions. it's well worth getting this sense in your bones. But the great advantage of statistical theory is the ability to quantify chance. "What are the odds that it's just a coincidence?" is not a rhetorical question. It asks for a numeric answer.
